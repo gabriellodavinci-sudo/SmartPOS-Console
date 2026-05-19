@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMARTPOS", "SMARTPOS\SMARTPOS.csproj", "{8CB882A8-A674-4CA1-B862-935524E5B9B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB882A8-A674-4CA1-B862-935524E5B9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB882A8-A674-4CA1-B862-935524E5B9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB882A8-A674-4CA1-B862-935524E5B9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB882A8-A674-4CA1-B862-935524E5B9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {646319CC-D164-4103-83FA-592DCB121E64}
+	EndGlobalSection
+EndGlobal

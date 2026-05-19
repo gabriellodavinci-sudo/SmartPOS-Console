@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SMARTPOS.file_opening.EmployeeFileHandler" Collapsed="true">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>file_opening\EmployeeFileHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMARTPOS.file_opening.ProductFileHandler" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAIAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>file_opening\ProductFileHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMARTPOS.functions.POSSYSTEM" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kRACAAIACCIQCEAEQgAIQIAVACAAABAgAAwwBAACAAA=</HashCode>
+      <FileName>functions\POSSYSTEM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SMARTPOS.functions.Register" Collapsed="true">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>functions\Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMARTPOS.functions.Sales" Collapsed="true">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>functions\Sales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMARTPOS.functions.Order" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>functions\Sales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMARTPOS.functions.OrderItem" Collapsed="true">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>functions\Sales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMARTPOS.functions.Search" Collapsed="true">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAABAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>functions\Search.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMARTPOS.Models.Employee" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAABEAAAACAAAAAAAAAgCAABA=</HashCode>
+      <FileName>Models\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMARTPOS.Models.product" Collapsed="true">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAgAEAIAAAAIAAAAAAgA=</HashCode>
+      <FileName>Models\product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMARTPOS.Program" Collapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SMARTPOS.functions.Iprintreceipt" Collapsed="true">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>functions\POSSYSTEM.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SMARTPOS.functions.Istorable" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>functions\POSSYSTEM.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
